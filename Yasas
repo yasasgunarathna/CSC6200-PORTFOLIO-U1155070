@@ -1,0 +1,7 @@
+echo "# CSC6200-PORTFOLIO-U1155070" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/yasasgunarathna/CSC6200-PORTFOLIO-U1155070.git
+git push -u origin main
